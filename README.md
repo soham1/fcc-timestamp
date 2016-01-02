@@ -1,1 +1,1 @@
-Hi
+This is a solution for http://www.freecodecamp.com/challenges/basejump-timestamp-microservice.
