@@ -30,5 +30,5 @@ User Story: If it does not contain a date or Unix timestamp, it returns null for
 [![ScreenShot](images/VideoPicture.PNG)](https://youtu.be/UiEKlxHKz50)
 
 ##Technologies Used:
-*Node.js
-*Express
+- Node.js
+- Express
