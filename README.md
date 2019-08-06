@@ -1,4 +1,4 @@
-#Timestamp Microservice
+# Timestamp Microservice
 
 This is a solution for http://www.freecodecamp.com/challenges/basejump-timestamp-microservice.
 
@@ -8,27 +8,27 @@ User Story: If it does, it returns both the Unix timestamp and the natural langu
 
 User Story: If it does not contain a date or Unix timestamp, it returns null for those properties.
 
-##Screenshots:
+## Screenshots:
 
-###Homepage
+### Homepage
 <img src="images/Timestamp1.PNG">
 
-###Passed a normal date in the url.
+### Passed a normal date in the url.
 <img src="images/Timestamp2.PNG">
 
-###Passed a unix date in the url.
+### Passed a unix date in the url.
 <img src="images/Timestamp3.PNG">
 
-###Invalid dates do not work.
+### Invalid dates do not work.
 <img src="images/Timestamp4.PNG">
 
-###Invalid unix dates do not work.
+### Invalid unix dates do not work.
 <img src="images/Timestamp5.PNG">
 
-##Demo:
+## Demo:
 
 [![ScreenShot](images/VideoPicture.PNG)](https://youtu.be/UiEKlxHKz50)
 
-##Technologies Used:
+## Technologies Used:
 - Node.js
 - Express
